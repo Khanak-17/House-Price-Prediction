@@ -35,8 +35,7 @@ This project aims to **build a reliable machine learning model** that predicts h
   - Number of bathrooms
   - Price
 
-🔗 Dataset Link:  
-https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data
+
 
 ---
 
