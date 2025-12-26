@@ -86,10 +86,7 @@ This project aims to **build a reliable machine learning model** that predicts h
 
 The trained ML model is deployed as a **Flask-based web application** that allows users to input property details and receive **real-time price predictions**.
 
-🔗 **Live Demo:**  
-https://bangalore-house-pricing.herokuapp.com/
 
----
 
 ## 📸 Application Preview
 
