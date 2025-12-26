@@ -1,4 +1,5 @@
-# 🏠  Housing Price Prediction | End-to-End ML Project
+# 🏠  House Price Prediction | End-to-End ML Project
+
 
 An end-to-end **Machine Learning regression project** that predicts **housing prices in Bangalore** using real-world data.  
 The project demonstrates the complete ML lifecycle — from **data preprocessing and model training** to **deployment as a production-ready web application**.
@@ -33,6 +34,9 @@ This project aims to **build a reliable machine learning model** that predicts h
   - Number of bedrooms (BHK)
   - Number of bathrooms
   - Price
+
+🔗 Dataset Link:  
+https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data
 
 ---
 
@@ -83,7 +87,16 @@ This project aims to **build a reliable machine learning model** that predicts h
 
 The trained ML model is deployed as a **Flask-based web application** that allows users to input property details and receive **real-time price predictions**.
 
+🔗 **Live Demo:**  
+https://bangalore-house-pricing.herokuapp.com/
 
+---
+
+## 📸 Application Preview
+
+![Bangalore Housing Price Prediction](Screenshots/BangaloreHousePricePredictionHeroku.JPG)
+
+---
 
 ## 📁 Project Structure
 
